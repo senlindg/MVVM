@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="breakfast_background">#F2F2F2</color>
+    <color name="base_background_line">#CCCCCC</color>
+    <color name="tab_background_selector">#AAC3E4</color>
+    <color name="fm_main_tab_color">#009900</color>
+    <color name="fm_break_fast_title_bg">#4D79C7</color>
+    <color name="fm_break_fast_im_bg">#389DEE</color>
+    <color name="base_background">#F2F2F2</color>
+    <color name="fm_goldden_tab">#FFD700</color>
+    <color name="fm_me_tab">#E5EFCD</color>
+    <color name="fm_background_a">#99CCFF</color>
+    <color name="press_white_color">#55ffffff</color>
+    <color name="white_color">#fff</color>
+    <color name="layout_pressed">#d9d9d9</color>
+
+    <color name="load_red">#fa007a</color>
+    <color name="load_purple">#935fe7</color>
+    <color name="load_yellow">#f9b11f</color>
+    <color name="load_blue">#009cfa</color>
+
+    <color name="tab_unselect">#c9c9c9</color>
+    <color name="main_color">#00b763</color>
+</resources>
